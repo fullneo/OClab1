@@ -1,3 +1,3 @@
 # OClab1
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img1.png)
+![Screenshot](img.png)
+![Screenshot](img1.png)
